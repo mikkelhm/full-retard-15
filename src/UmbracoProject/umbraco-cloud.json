@@ -1,7 +1,17 @@
 {
   "Deploy": {
     "Project": {
-      "Workspaces": []
+      "Name": "going full retard with cicd",
+      "Alias": "going-full-retard-with-cicd",
+      "Id": "95689230-8ccc-4126-8625-c05371effe5c",
+      "Workspaces": [
+        {
+          "Id": "8e4c7281-bbd1-4cad-aa1b-dcd4d996f6c5",
+          "Name": "Live",
+          "Type": "live",
+          "Url": "https://going-full-retard-with-cicd.euwest01.rainbowsrock.net"
+        }
+      ]
     },
     "Settings": {}
   },
